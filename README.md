@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-We're a passionate software developer company based in Rwanda, building modern web and mobile applications. I thrive on learning new tech, solving real-world problems, and collaborating with positive, driven teams.
+We're a passionate software developer company based in Rwanda, building modern web and mobile applications. We thrive on learning new tech, solving real-world problems, and collaborating with positive, driven teams.
 
 ---
 
